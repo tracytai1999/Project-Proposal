@@ -5,7 +5,7 @@ Info 201
 
 **Why are you interested in this field/domain?**
 
-As Covid-19 spreads through the world, many people have suffered in this pandemic. As a result, people have changed their life style dramatically to stay healthy, including work from home, online teaching courses, and so on. In this project, we want to explore the changes in daily life after Covid-19. We want to use data visualization to show how many changes the pandemic has brought us on behaviors like dining, exercising, shopping, traveling, etc.
+As Covid-19 spreads through the world, many people have suffered in this pandemic. As a result, people have changed their life style dramatically to stay healthy, including work from home, online teaching courses, and so on. In this project. Economics have also encountered tremendous challenges. Restaurants, shopping malls and gyms are all closed to keep Covid-19 from spreading, and resulted in companies facing great loss. We want to use data visualization to show how Covid-19 effect the economy in each state, and compare data from each state to see what actions and policies are useful to solve the problem.
 
 **What other examples of data driven project have you found related to this domain (share at least 3)?**
 - [91-Divoc.com](https://91-divoc.com/pages/covid-visualization/) - Used data visualization to present new confirmed Covid-19 cases every day.
@@ -13,9 +13,9 @@ As Covid-19 spreads through the world, many people have suffered in this pandemi
 - [joinhomebase](https://joinhomebase.com/data/) - Show the data of all states plus all the cities in the U.S. .
 
 **What data-driven questions do you hope to answer about this domain (share at least 3)?**
-- How does the number of people dining in restaurant change as the number of people infecting Covid-19 increases?
 - Why does the economy of some cities seem to do worse than other cities?
 - How can other cities sustain better economies than worse cities?
+- Does the number of homeless people relates to confirmed Covid-19 cases?
 
 **Dataset 1**
 - [kaggle.com](https://www.kaggle.com/nightranger77/covid19-state-data) - Found from the web API. The data is about how covid19 has impacted the GDP of each states. There are 10 columns in this dataset, and 50 rows in this dataset.
