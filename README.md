@@ -5,7 +5,7 @@ Info 201
 
 **Why are you interested in this field/domain?**
 
-As Covid-19 spreads through the world, many people have suffered in this pandemic. As a result, people have changed their life style dramatically to stay healthy, including work from home, online teaching courses, and so on. In this project. Economics have also encountered tremendous challenges. Restaurants, shopping malls and gyms are all closed to keep Covid-19 from spreading, and resulted in companies facing great loss. We want to use data visualization to show how Covid-19 effect the economy in each state, and compare data from each state to see what actions and policies are useful to solve the problem.
+As Covid-19 spreads through the world, many people have suffered in this pandemic. As a result, people have changed their life style dramatically to stay healthy, including work from home, online teaching courses, and so on. Economics have also encountered tremendous challenges. Restaurants, shopping malls and gyms are all closed to keep Covid-19 from spreading, and resulted in companies facing great loss. In this project, we want to use data visualization to show how Covid-19 effect the economy in each state, and compare data from each state to see what actions and policies are useful to solve the problem.
 
 **What other examples of data driven project have you found related to this domain (share at least 3)?**
 - [91-Divoc.com](https://91-divoc.com/pages/covid-visualization/) - Used data visualization to present new confirmed Covid-19 cases every day.
